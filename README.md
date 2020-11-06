@@ -9,7 +9,7 @@ Titanic_1_81:
 - EDA 
 - Dropped 'Cabin','PassengerId','Name','Ticket'
 - Replace missing value in Age with mean
-- Best performance: Random Forest (7,10) Accuracy 81.7 (82.8 on test set) 
+- Best performance: Random Forest (7,10) Accuracy 81.7 
 
 
 
