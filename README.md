@@ -11,5 +11,9 @@ Titanic_1_81:
 - Replace missing value in Age with mean
 - Best performance: Random Forest (7,10) Accuracy 81.7 
 
+Titanic_2:
+- Feature creation
+- submission
+- kaggle score 0.76
 
 
